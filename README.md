@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI as my major.
 - 💞️ I’m looking to collaborate on X.
 - 📫 How to reach me: lenguyenquocanh2005@gmail.com
-- 😄 Pronouns: HE
+- 😄 Pronouns: He/She
 - ⚡ Fun fact: No Facts
 
 <!---
