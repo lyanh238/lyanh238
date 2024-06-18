@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @lyanh238
 - 👀 I’m interested in AI and mobile apps.
 - 🌱 I’m currently learning AI as my major.
-- 💞️ I’m looking to collaborate on X.
+- 💞️ I’m looking to collaborate with Elon Musk.
 - 📫 How to reach me: lenguyenquocanh2005@gmail.com
-- 😄 Pronouns: He/She
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: No Facts
 
 <!---
