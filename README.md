@@ -1,8 +1,11 @@
 # Hi there, it's me, Lee! 👋
 
-<div align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHMwOXBuc29rcWNqbGh2NGpsNzJudzFyeWNmaGZseHRsYXN2aXNjYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RUtbT4tkBtQ4DjeXff/giphy.gif)" width="400" alt="Coding GIF"/>
-</div>
+<p align="center">
+  <a href="https://giphy.com/stickers/transparent-miku-hatsune-RUtbT4tkBtQ4DjeXff">
+    <img src="https://media.giphy.com/media/RUtbT4tkBtQ4DjeXff/giphy.gif" width="400" alt="Miku dancing"/>
+  </a>
+</p>
+
 
 ## 💫 About Me
 
