@@ -1,7 +1,7 @@
-# Hi there, I'm Anh Le Ng. Quoc! 👋
+# Hi there, it's me, Lee! 👋
 
 <div align="center">
-  <img src="https://tenor.com/lMR7A0HWrNv.gif" width="400" alt="Coding GIF"/>
+  <img src="[https://tenor.com/lMR7A0HWrNv.gif](https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8)" width="400" alt="Coding GIF"/>
 </div>
 
 ## 💫 About Me
