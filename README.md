@@ -1,7 +1,7 @@
 # Hi there, it's me, Lee! 👋
 
 <div align="center">
-  <img src="[https://tenor.com/lMR7A0HWrNv.gif](https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8)" width="400" alt="Coding GIF"/>
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHMwOXBuc29rcWNqbGh2NGpsNzJudzFyeWNmaGZseHRsYXN2aXNjYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RUtbT4tkBtQ4DjeXff/giphy.gif)" width="400" alt="Coding GIF"/>
 </div>
 
 ## 💫 About Me
